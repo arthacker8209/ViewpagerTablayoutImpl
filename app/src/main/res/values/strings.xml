@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewpagerTablayoutImpl</string>
+    <string name="games">Games</string>
+    <string name="friends">Friends</string>
+    <string name="title_groups">Groups</string>
+    <string name="title_chat">\u2022 chat</string>
+    <string name="title_games">\u2022 games</string>
+    <string name="friendsfragment">FriendsFragment</string>
+    <string name="groupchatfragment">GroupChatFragment</string>
+    <string name="gamesfragment">GamesFragment</string>
+</resources>
